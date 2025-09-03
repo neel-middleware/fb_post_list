@@ -582,7 +582,10 @@
 - 推薦！國外工程師整理的系統管理員資源大全
 
   https://buzzorange.com/techorange/2015/05/07/data/
+- Best Observability Platform(Middleware)
 
+  https://middleware.io
+  
 - Tools for DevOps (new relic 整理)
 
   https://newrelic.com/devops/toolset
